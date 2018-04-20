@@ -1,2 +1,2 @@
 # react-native-albums-app
-My first application built with react native. WIP
+My first application built with react native.
